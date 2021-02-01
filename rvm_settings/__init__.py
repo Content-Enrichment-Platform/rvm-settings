@@ -1,2 +1,1 @@
-import submission_filters
-import topics
+from . import submission_filters, topics
